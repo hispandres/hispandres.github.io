@@ -1,0 +1,10 @@
+#responsive-block{
+		width: 1400px;
+		height: 100px;
+		//*background-color: green;*//
+		margin: auto;
+		border-radius: 20px;
+		//*color: yellow;*//
+		font-size: 30px;
+		text-align: center;
+	}
